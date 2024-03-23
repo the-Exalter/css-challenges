@@ -48,6 +48,9 @@ h3 {
 .small {
     font-size: 16px;
 }
+p {
+    font-size: 16px;
+}
 
 p a {
     color: #99D930;
